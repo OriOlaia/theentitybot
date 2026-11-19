@@ -32,4 +32,4 @@ client.on(Events.MessageCreate, async (message) => {
 })
 
 // Conectar el bot
-client.login("MTMzMzYxNzEzNzUwNzUwNDE0OA.GbleiI.I8YyOfIcvmiT20jx5JsHn1uE_wktvWwiXW4ypU");
+client.login("TOKEN DISCORD");
